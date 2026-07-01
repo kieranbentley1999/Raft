@@ -1,0 +1,6 @@
+{
+  "name": "Solana Deep Diver",
+  "description": "Dive deep into the virtual Solana Trench, gather glowing SOL crystals, and dodge dangerous deep-sea pressure to deposit your bounty at the surface boat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
